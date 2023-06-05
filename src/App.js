@@ -7,6 +7,10 @@ function App() {
         <h1> WeatherWhiz</h1>
         <SearchEngine />
       </header>
+      <footer>
+        <a href="https://github.com/NK-01/weatherwhiz">Open source code</a> by
+        <a href="https://github.com/NK-01">Nidhi Kumari</a>
+      </footer>
     </div>
   );
 }
